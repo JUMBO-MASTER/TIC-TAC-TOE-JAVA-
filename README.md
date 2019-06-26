@@ -1,14 +1,14 @@
-# TIC-TAC-TOE (JAVA)
-TIC-TAC-TOE (JAVA)
+# TIC-TAC-TOE (JAVA)<br/>
+TIC-TAC-TOE (JAVA)<br/>
 
-Training Java Programming
-** My First Java Program **
+Training Java Programming<br/>
+** My First Java Program **<br/>
 
-Game with 2 Mode
-1. Player vs Player
-2. Player vs Computer (AI)
-  2.1 Easy
-  2.2 Normal
-  2.3 Hard
+Game with 2 Mode<br/>
+1. Player vs Player <br/>
+2. Player vs Computer (AI)<br/>
+  2.1 Easy<br/>
+  2.2 Normal<br/>
+  2.3 Hard<br/>
   
   ****************************************
